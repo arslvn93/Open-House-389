@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "608 - 65 Scadding Avenue",
     "city": "Toronto",
@@ -113,6 +113,6 @@
     "repoUrl": "https://github.com/arslvn93/Open-House-389",
     "tag": "Open House 608 - 65 Scadding Avenue",
     "netlifyUrl": "http://Open-House-389.netlify.app",
-    "siteId": "987879379"
+    "siteId": "22982583-6e7d-452d-a43d-e6b2017dd831"
   }
-}
+};
