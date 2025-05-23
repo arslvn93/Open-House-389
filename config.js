@@ -21,7 +21,7 @@ const config = {
   },
   "brokerage": {
     "name": "Property.Ca",
-    "logoUrl": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066683698-206K3CJ2XPFVVBZPDW8R/image-asset.jpeg",
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066701131-HMSQC87ZI0P5A10TQREH/logo_black_bg.jpg",
     "address": "36 Distillery Lane Unit 500 Toronto M5A3C4"
   },
   "openHouse": {
